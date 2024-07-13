@@ -19,7 +19,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/DSQL-MONGKEY/DSQL-MONGKEY/issues)**
 
-⚡ My Tagline **If you can't explain simply. You don't understand enough**
+⚡ My Tagline: "**If you can't explain simply. You don't understand enough**"
 
 </div>
  
