@@ -61,13 +61,18 @@
 <br>
 <div align=center>
   <img src="https://streak-stats.demolab.com?user=DSQL-MONGKEY&theme=travelers-theme&background=45%2CFF2E63%2C424874" alt="GitHub Streak" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=DSQL-MONGKEY&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSQL-MONGKEY&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <a href="https://github.com/DSQL-MONGKEY">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DSQL-MONGKEY&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DSQL-MONGKEY&layout=compact&theme=algolia&langs_count=8&hide_border=true"/>
+  </a>
 </div>
 
 <br/><br/>
-
+### Reach me on 💬
+- [LinkedIn](https://linkedin.com/in/dimp-fe/)
+- [DPortfolio](https://dimp-port.vercel.app)
+- dimasprasetyo.work@gmail.com
 <hr/>
 
 <br/>
