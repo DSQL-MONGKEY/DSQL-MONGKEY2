@@ -60,7 +60,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://streak-stats.demolab.com?user=DSQL-MONGKEY&theme=travelers-theme&background=45%2CFF2E63%2C424874" alt="GitHub Streak" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=DSQL-MONGKEY&theme=travelers-theme&background=45%2CFF2E63%2C424874&hide_border=true" alt="GitHub Streak" alt="streak stats"/>
   <br/>
   <a href="https://github.com/DSQL-MONGKEY">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DSQL-MONGKEY&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true&hide_border=true"/>
