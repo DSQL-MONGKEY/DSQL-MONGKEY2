@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">Seasoned Software Engineer with a strong focus on Front-end Development✨.</h3>
-<h5 align="center">Intermediate experience with Javascript/Typescript and well-versed in frontend technologies. Always passionate and open-minded to learn about new things📈.</h5>
+<h5 align="center">Intermediate experience with Javascript/Typescript and well-versed in frontend technologies. Always passionate and open-minded to learn about new things📈.</h5> 
 
 <p align="center">Above all that, I enjoy design, sports, and gaming. I also have naturally a good intuitive sense in the art-visual-related field. Gotcha with that pixel-perfect taste! 🚀✨</p>
 
