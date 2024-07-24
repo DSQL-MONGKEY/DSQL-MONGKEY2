@@ -10,7 +10,7 @@
 <p align="center">Above all that, I enjoy design, sports, and gaming. I also have naturally a good intuitive sense in the art-visual-related field. Gotcha with that pixel-perfect taste! 🚀✨</p>
 
 <br/> 
-
+ 
 <div align="center">
  
  🔭 I’m currently working on **Bangkit Academy  led by Google, GoTo, and Traveloka**
